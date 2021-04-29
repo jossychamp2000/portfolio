@@ -1,0 +1,174 @@
+{
+  "main": {
+    "name": "Olusegun Kayode",
+    "occupation": "Python/Django Software Developer && Working @Freelancer",
+    "description": "I am a Full -Stack Software Developer with over 5 yearse experience in the business,  I have designed and developed over 50 web based apps and sites up to date. My experience has been in e-commerce, retail and SaaS ",
+    "image": "IG_jossy.jpg",
+    "bio": "My name is Olusegun, I'm a Full Stack Python/Django Developer. Currently I'm working as Freelancer ",
+    "contactmessage": "Get in touch with me to receive further details, Am available for work.",
+    "email": "jossychamp2000@yahoo.com",
+    "phone": "+1 438 686 9798",
+    "address": {
+      "street": "2860 Place Darlington",
+      "city": "Montreal",
+      "state": "Quebec",
+      "zip": "H3S 1L5"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "linkedin.com/in/joseph-kayode-6988a342",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jossychamp2000",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My main tech stack consists of Python,Django,Flask,HTML,CSS,Javascipt,ReactJS and SQL databases",
+    "education": [
+      {
+        "school": "Coursera",
+        "degree": "Some College (No Degree): ",
+        "graduated": " September 2020",
+        "description": "Django for Everybody Specialization"
+      },
+      {
+        "school": "Coursera",
+        "degree": "Some College (No Degree):",
+        "graduated": "Jan 2020",
+        "description": "Linux Server Management and Security"
+      },
+      {
+        "school": "Sikkim Manipal University",
+        "degree": "BSC in Applied Information Technology",
+        "graduated": "November 2006",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Self Employed",
+        "title": "Fullstack Developer as freelance worker ",
+        "years": "Oct 2020 - Present",
+        "description": "Builds fullstack apps to clients."
+      },
+      {
+        "company": "Teleperformance",
+        "title": "Customer Service Agent",
+        "years": "Sept 2020 - Jan 2021",
+        "description": "Respond to customer questions and objections utilizing established service de-escalation techniques and endeavor to provide resolutions the first time around."
+      },
+      {
+        "company": "Gexel",
+        "title": "Telemarketing Agent",
+        "years": "Feb 2020 - Sept 2020",
+        "description": "Contact existing customers to offer new products and services."
+      },
+      {
+        "company": "Zyonel Technologies ",
+        "title": "Software Developer",
+        "years": "July 2015 - Sept 2019",
+        "description": "Utilized Python, Django, Flask and Javascripts etc. to design server applications and client interfaces.."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "Django",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Javascript",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "SQLITE",
+        "level": "80%"
+      },
+      {
+        "name": "Postgresql",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "E-COMMERCE APP",
+        "category": "E-commerce app built with  (Django, Bootstrap4, Postgesql, Html)",
+        "image": "ecommerce.JPG",
+        "url": "https://jossychamp2000.pythonanywhere.com"
+      },
+      
+      {
+        "title": "Amazon Clone with React",
+        "category": "Facebook Clone built with (ReactJS, JSX, React Context API, CSS)",
+        "image": "amazonclone.jpg",
+        "url": "https://challenge-9e6d7.web.app/"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with (ReactJS, Axios,JSX, React Context API, CSS)",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://airbnb-clone-aa8b2.web.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with (ReactJS, Axios,JSX, React Context API, CSS)",
+        "image": "netflix-clone.jpeg",
+        "url": "https://netflix-clone-5ec30.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "You are a reliable developer to always trusts with projects. You delivered my job at specified period of time.",
+        "user": "Collins Isiobe"
+      },
+      {
+        "text": "That Olusegun Kayode must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh in Canada and have zero on the job experience with any Canadian company but I am confident that he will be one of your best developers in no time!",
+        "user": "Oladapo Awosile... impersonator"
+      }
+    ]
+  }
+}
